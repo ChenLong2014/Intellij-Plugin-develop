@@ -1,0 +1,1 @@
+This is Intellij plugin develop Read.me.
